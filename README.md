@@ -8,7 +8,8 @@ The goal is to simulate a real-world business scenario, transforming raw transac
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](./dashboard.png)
+<img width="1302" height="717" alt="image" src="https://github.com/user-attachments/assets/e08dfe55-0765-4674-accf-d7614445f7d1" />
+
 
 ---
 
@@ -86,6 +87,4 @@ The goal is to simulate a real-world business scenario, transforming raw transac
 - Integration with Power BI
 - Automated reporting
 
----
 
-## 👨‍💻 Author
