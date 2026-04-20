@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis (SQL Project)
+# Pizza Sales Analysis (SQL Project)
 
 ## 📌 Overview
 This project analyzes a pizza sales dataset using SQL to extract key business insights such as revenue, customer behavior, and product performance.
